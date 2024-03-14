@@ -4,6 +4,10 @@
 
 <a href="https://www.npmjs.com/package/@titaniumnetwork-dev/ultraviolet"><img src="https://img.shields.io/npm/v/@titaniumnetwork-dev/ultraviolet.svg?maxAge=3600" alt="npm version" /></a>
 
+> [!NOTE]
+> This version of Ultraviolet may have modifications made by ReBlock Projections. If you want a pure version of Ultraviolet, visit the [GitHub repository](https://github.com/titaniumnetwork-dev/Ultraviolet) for Ultraviolet managed by Titanium Network.
+---
+
 Ultraviolet is a highly advanced web proxy used for evading internet censorship or accessing websites in a controlled sandbox. It is designed with security and performance in mind. Ultraviolet intercepts HTTP requests with a service worker, while adhering to the [TompHTTP specifications](https://github.com/tomphttp) and is a leader in innovative web proxy technologies.
 
 ## Features
